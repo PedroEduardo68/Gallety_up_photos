@@ -13,10 +13,17 @@
   🚧 Read and write Firebase.
   🚀 DONE...  🚧
 </h4>
-
-
-
 <br><br>
+
+
+<h2 align="center"> ### Libs</h2>
+<h4 align="center"> 
+	🚧 Firebase
+  🚧 React
+  🚧 UUID
+</h4>
+
+
 
 <h2 align="center"> ### Actor</h2>
 
